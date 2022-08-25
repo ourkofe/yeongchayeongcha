@@ -1,5 +1,5 @@
 # 영차영차 (식습관 기반 개인 맞춤 영양제 추천 시스템)  
-<p align="center"><img src="https://user-images.githubusercontent.com/104803703/186654412-7172e77c-da2c-4dc0-a64a-91bee9031540.png" height="300px" width="300px"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/104803703/186654412-7172e77c-da2c-4dc0-a64a-91bee9031540.png" height="300px" width="300px"></p>  
 [![yeongchayeongcha compliant](https://img.shields.io/badge/project-yeongchayeongcha-yellow)](https://github.com/ourkofe/yeongchayeongcha)
 ----------
 2022 데이터 청년 캠퍼스 프로젝트  
