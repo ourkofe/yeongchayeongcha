@@ -15,7 +15,6 @@
 - 사용 방법
 - 코드 설명
 - 외부리소스 정보
-- License
 
 ## Project Description
 
@@ -33,6 +32,3 @@
 
 ## 외부리소스 
 
-## License
-
-[MIT](LICENSE) © ourkofe
