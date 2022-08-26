@@ -11,13 +11,13 @@
 
 ## Table of Contents
 
-- [프로젝트 Description](#프로젝트 Description)
+- [Project Description](#Project Description)
 - [사용 방법](#사용 방법)
 - [코드 설명](#코드 설명)
 - [외부리소스 정보](#외부리소스 정보)
 - [License](#License)
 
-## 프로젝트 Description
+## Project Description
 
 1. 프로젝트 명 : 영차영차 (영양소야! 차올라!! 영양소가 차오른다!!)
 2. 선정 주제 : 7일간의 식단을 기본으로 한 개인 맞춤 영양제 추천 시스템 (계산 모델)
