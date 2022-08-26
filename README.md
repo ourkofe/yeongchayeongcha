@@ -12,8 +12,7 @@
 ## Table of Contents
 
 - 프로젝트 Description
-- 프로젝트 Information
-- Contribute
-- License
+- 코드 설명
+- 사용 방법
 - 외부리소스 정보
-- Code Status
+- License
