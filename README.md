@@ -27,4 +27,4 @@
 
 ## License
 
-[MIT](LICENSE) © Richard Littauer
+[MIT](LICENSE) © ourkofe
