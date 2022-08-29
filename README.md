@@ -34,8 +34,8 @@
 ## 코드 설명
 
 1.
-'''
+```
 food_data=pd.read_csv("food_data_preprocessing_final.csv")
 food_data=food_data.drop(columns=['Unnamed: 0'])
 food_data
-'''
+```
