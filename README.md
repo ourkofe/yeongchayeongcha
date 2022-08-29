@@ -10,6 +10,7 @@
 ## Table of Contents
 
 - Project Description
+- 수집 데이터
 - 사용 방법
 - 코드 설명
 
@@ -20,6 +21,13 @@
 3. 팀원 : 정하은, 이민희, 장재리, 홍성준, 홍유리
 4. 프로그래밍 언어 : Python3 (알고리즘 구현은 주피터 노트북을 통해 진행)
 5. 사용하는 패키지 : Numpy, Pandas, matplotlib.pyplot, sklearn.preprocessing, math, matplotlib.path, matplotlib.spines, matplotlib.transforms
+
+## 수집 데이터
+
+1. 식품영양성분 가공식품 (식품의약품안전처 식품영양성분 데이터베이스)
+2. 식품영양성분 음식 (식품의약품안전처 식품영양성분 데이터베이스)
+3. 2020 한국인 영양소 섭취기준 (보건복지부)
+4. 영양제 (Iherb 크롤링 https://kr.iherb.com/)
 
 ## 사용 방법
 
