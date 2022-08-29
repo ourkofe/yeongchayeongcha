@@ -36,7 +36,7 @@
 1. 음식 데이터 불러오기
 ```
 food_data=pd.read_csv("food_data_preprocessing_final.csv")
-food_data=food_data.drop(columns=['Unnamed: 0'])
+food_data=food_data.drop(columns=['Unnamed: 0']) #인덱스 번호가 이중 생성되지 않도록 데이터 내의 인덱스 번호 열 
 food_data
 ```
 2. ㅇㅇ
