@@ -112,7 +112,7 @@ def yournutrientinfo(age,sex,height,weight,PA):
 ```
 영양제 데이터 불러오기
 ```python
-file = 'nutri_clean.xlsx'
+    file = 'nutri_clean.xlsx'
     df = pd.read_excel(file)
     df = pd.read_excel(file, sheet_name = 0, index_col = 1)
     df = pd.read_excel(file, sheet_name = 0, header = 0) #영양제 데이터 불러오기
