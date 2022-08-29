@@ -34,13 +34,13 @@
 ## 코드 설명
 
 1. 음식 데이터 불러오기
-```
+```python
 food_data=pd.read_csv("food_data_preprocessing_final.csv")
 food_data=food_data.drop(columns=['Unnamed: 0']) #인덱스 번호가 이중 생성되지 않도록 데이터 내의 인덱스 번호 열 
 food_data
 ```
 2. ㅇㅇ
-```
+```python
 def day_7_nutrient(food_data):
     food=[x for x in input("공백을 구분자로 먹은 식단을 입력바랍니다: ").split()] #일상섭취량을 구하기 위해 식단 입력 (일상섭취량 : 하루동안 섭취하는 평균적인 섭취량)
     food_result=pd.DataFrame() #day_7_nutrient 함수를 통한 출력값으로 데이터프레임 생성
@@ -56,7 +56,7 @@ def day_7_nutrient(food_data):
     return day7_mean
 ```
 3. dd
-```
+```python
 def recommend_intake(age,sex,height,weight,PA):
     if sex=='남':
         energy=662-9.53*age+PA*(15.91*weight+539.6*height/100)
@@ -94,12 +94,12 @@ def recommend_intake(age,sex,height,weight,PA):
     return recommend
 ```
 4. dd
-```
+```python
 def dist(x,y):   
     return np.sqrt(np.sum((x-y)**2))
 ```
 5. dd
-```
+```python
 def yournutrientinfo(age,sex,height,weight,PA):
     info=pd.concat([recommend_intake(age,sex,height,weight,PA),day_7_nutrient(food_data)],axis=1)
     info['필요섭취량']=info['권장섭취량']-info['7일영양소평균']
