@@ -98,6 +98,7 @@ def dist(x,y):   #유클리디안 거리를 계산하는 함수 식
     return np.sqrt(np.sum((x-y)**2)) #유클리디안 거리 반환
 ```
 5. 맞춤 영양제 추천(필요섭취량 추출 및 유클리디안 거리를 통한 유사도 분석)과 추천한 맞춤 영양제 섭취시 영양 변화 시각화
+
 필요섭취량 추출
 ```python
 def yournutrientinfo(age,sex,height,weight,PA): 
