@@ -24,7 +24,7 @@
 ## 사용 방법
 
 1. 주피터 노트북 설치 및 실행
-2. 코드 시작 전 패키지 다운로드 : Numpy, Pandas, matplotlib, sklearn, math, openpyxl
+2. 코드 시작 전 파이썬 모듈 다운로드 : Numpy, Pandas, matplotlib, sklearn, math, openpyxl
 3. 코드 다운로드 : 영차영차_개인 맞춤 영양제 추천 시스템.ipynb 저장
 4. 코드 시작 전 동일 폴더로 데이터 다운로드 : food_data_preprocessing_final.csv 와 nutri_clean.xlsx 저장
 5. 코드 순서대로 실행 (작성한 코드에는 맞춤 영양제 추천의 예시로 키가 175이고 몸무게가 70인 저활동적인 25세 남성의 영양제 추천이 이루어진다.)
